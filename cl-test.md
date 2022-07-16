@@ -5,5 +5,5 @@ File created with vim from the command line.
 
 #### I wonder if you can combine mardown, for instance use *markdown emphasis* on headers
 
-Or embed *different **types** of emphasis* like that, or **even *like* this**.
+Or embed different types of emphasis, for instance make *some italics **bold** like this*, or make **some bold *italic* instead**.
 
